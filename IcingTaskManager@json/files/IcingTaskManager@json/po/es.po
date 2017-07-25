@@ -38,7 +38,7 @@ msgstr "Mover al área de trabajo de la izquierda"
 
 #: 3.2/specialMenus.js:156 3.0/specialMenus.js:169
 msgid "Places"
-msgstr ""
+msgstr "Lugares"
 
 #: 3.2/specialMenus.js:207 3.0/specialMenus.js:226
 #, fuzzy
@@ -47,19 +47,19 @@ msgstr "porcentaje"
 
 #: 3.2/specialMenus.js:225 3.0/specialMenus.js:247
 msgid "Preferences"
-msgstr ""
+msgstr "Preferencias"
 
 #: 3.2/specialMenus.js:228
 msgid "About..."
-msgstr ""
+msgstr "Acerca de..."
 
 #: 3.2/specialMenus.js:233
 msgid "Configure..."
-msgstr ""
+msgstr "Configurar"
 
 #: 3.2/specialMenus.js:238
 msgid "Remove"
-msgstr ""
+msgstr "Eliminar"
 
 #: 3.2/specialMenus.js:272
 msgid "Unpin from Panel"
@@ -83,7 +83,7 @@ msgstr "Crear acceso directo"
 
 #: 3.2/specialMenus.js:300
 msgid "Restore to full opacity"
-msgstr ""
+msgstr "Restaurar opacidad"
 
 #: 3.2/specialMenus.js:308
 msgid "Restore"
@@ -103,7 +103,7 @@ msgstr "Maximizar"
 
 #: 3.2/specialMenus.js:335
 msgid "Close others"
-msgstr ""
+msgstr "Cerrar otros"
 
 #: 3.2/specialMenus.js:345
 #, fuzzy
@@ -131,7 +131,7 @@ msgstr "Anula la pseudo clase para el botón de aplicación en el enfoque."
 #. 3.0->settings-schema.json->hoverPseudoClass->options
 #. 3.0->settings-schema.json->activePseudoClass->options
 msgid "active"
-msgstr ""
+msgstr "activo"
 
 #. 3.2->settings-schema.json->focusPseudoClass->options
 #. 3.2->settings-schema.json->hoverPseudoClass->options
